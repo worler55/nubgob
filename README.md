@@ -5,7 +5,7 @@
   
 #วิธีเปิดโปรแกรม
 
--ลงจาว JDK ลิ้งค์นี้ https://www.oracle.com/technetwork/java/javase/overview/index.html  
+-ลงจาวา JDK ลิ้งค์นี้ https://www.oracle.com/technetwork/java/javase/overview/index.html  
 
 -เปิดโปรแกรมโดยเข้าไปที่โฟลเดอร์ bin  
 
